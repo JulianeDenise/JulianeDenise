@@ -53,7 +53,7 @@ Olá, me chamo Juliane Denise, tenho 26 anos e sou de Curitiba/PR. Atualmente, e
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeDenise&theme=vision-friendly-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeDenise&theme=vision-friendly-dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=0" 
   />
 
 </p>
